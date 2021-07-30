@@ -1,3 +1,8 @@
+CORES
+#955645;
+#DF8060;
+
+
 *{
     margin: 0;
     padding: 0;
@@ -6,8 +11,7 @@
 
 html{
     font-size: 16px;
-    font-family: 'Dosis', sans-serif;
-    background-color: #f9f5ea;
+    font-family: 'Dosis', sans-serif
 }
 
 /* BANNER */
@@ -17,15 +21,12 @@ html{
     width: 100%;
     height: 85vh;
     justify-content: center;
-    text-align: center;
-    align-items:flex-end;
+    align-items: flex-end;
     background: url(../img/apollo.jpg) center no-repeat;
     background-size: cover;
     color: #ffff;
 }
-.banner-texto{
-    height: 250px;
-}
+
 
 
 .banner-titulo{
@@ -72,7 +73,6 @@ html{
 .resumo-titulo{
     font-size: 45px;
     color:#DF8060;
-    margin-left: 40px;
     margin-bottom: 40px;
 }
 
@@ -127,7 +127,6 @@ html{
     text-align: center;
     padding: 20px;
     margin: 20px;
-    border-radius: 15%;
 
 }
 
